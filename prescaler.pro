@@ -1,0 +1,22 @@
+update=07/05/2018 14:00:16
+last_client=kicad
+[general]
+version=1
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Connector_Generic
+LibName2=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Device
+LibName3=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Diode
+LibName4=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Jumper
+LibName5=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/LED
+LibName6=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Logic_74xx
+LibName7=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Logic_CMOS_4000
+LibName8=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/MCU_Module
+LibName9=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Mechanical
+LibName10=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/power
+LibName11=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Regulator_Linear
+LibName12=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Transistor_FET
+LibName13=C:/Users/Marco/Documents/Kicad/libraries/Divider/hmc705lp4
+LibName14=C:/Users/Marco/Documents/Kicad/Kicad/kicad-symbols-master/Connector_Specialized
